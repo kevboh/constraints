@@ -4,6 +4,8 @@ Constraints is a plugin for [Obsidian](https://obsidian.md) that helps enforce w
 
 This plugin is currently very bare-bones and not really intended for general use. While I would like to flesh it out and add a few more features, **all it does right now is optionally highlight uses of the letter `e` as you write.**
 
+![example image](/docs/example.png)
+
 ## Sponsorship
 
 While I’m not sure why you would do so, any [sponsorship](https://github.com/sponsors/kevboh) is deeply appreciated, although by no means necessary.

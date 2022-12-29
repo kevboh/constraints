@@ -1,0 +1,1 @@
+This is my cool book, writing of which is without a particular letter
